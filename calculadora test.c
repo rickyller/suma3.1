@@ -10,4 +10,8 @@ int main()
 
     printf("Inserte el numero 2: ");
    scanf("%i",&n1);
+
+   r= n + n1;
+
+   printf("El resultado de la suma es: %i",r);
 }
