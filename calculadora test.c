@@ -12,6 +12,9 @@ int main()
    scanf("%i",&n1);
 
    r= n + n1;
-
-   printf("El resultado de la suma es: %i",r);
+    printf("\nEl resultado de la suma es: %i",r);
+   printf("hola");   
+   int n2, n3;
+   printf("hola, estoy intentando crear una rama");
 }
+   
